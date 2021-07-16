@@ -21,24 +21,24 @@ The main steps are:
 
 ### :computer: **Main Python Libraries**
 
-For Data Processing and Linear Algebra:
+🎨 For Data Processing and Linear Algebra:
 - Pandas
 - Numpy
 
-For Visualizations:
+📊 For Visualizations:
 - Seaborn
 - Matplotlib
 - Missingno
 - Plotly Express
 
-For Machine Learning:
+🔭 For Machine Learning:
 - Scikit-learn
 - Prophet
 - Statsmodels
 
 ## **Data Structure:**
 
-Data consists of 421570 records of weekly sales from stores spanning between ’05-Feb-2010’ to ’26-Oct-2012’.
+Data consists of 421.570 records of weekly sales from stores spanning between ’05-Feb-2010’ to ’26-Oct-2012’.
 
 Total 16 numbers of attributes are provided in the Data set including
 
@@ -55,4 +55,4 @@ Total 16 numbers of attributes are provided in the Data set including
 
 ---
 
-#### :love_letter: "I want to to say Hi 👋 and thank you for scroling till here"
+#### :love_letter: "I want to  say Hi 👋  and thank you for scrolling till here"
