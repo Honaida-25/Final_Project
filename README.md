@@ -1,6 +1,6 @@
 # Sales Prediction Data Analysis
 
-Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. They have a lot of stores spread through the countrie offering goods and/or services to coustumers through multiple channels. To keep up with the marker demand they asing us the job to make a 6 month weekly sales prediction model to keep up with the demand of their customers.
+Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. They have a lot of stores spread through the countrie offering goods and/or services to coustumers through multiple channels. To keep up with the markert demand they assigning us the job to make a 6 month weekly sales prediction model to keep up with the demand of their customers.
 
 
 
